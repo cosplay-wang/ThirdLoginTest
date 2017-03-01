@@ -1,0 +1,1 @@
+include ':app', ':WeiboSDK', ':social_sdk_library_project'
